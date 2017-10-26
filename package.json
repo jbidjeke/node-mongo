@@ -1,0 +1,7 @@
+{
+  "main": "app.js",
+  "dependencies": {
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.13"
+  }
+}
